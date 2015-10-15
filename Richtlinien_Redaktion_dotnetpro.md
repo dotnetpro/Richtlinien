@@ -129,7 +129,8 @@ Das allermeiste wird nicht kursiv gesetzt.
 * Dateinamen und Pfadangaben
 * Buch-, Zeitschriften-, Artikeltitel. Ausnahme: Auf den Newsseiten und im Autorenkasten werden diese nicht kursiv sondern in Anführungszeichen gesetzt. 
 
-~~~~~~
+ **Beispiele:**
+
 Sie erhalten ein *DirectoryEntries*-Objekt immer nur über das Attribut *Children *eines *DirectoryEntry*-Objekts.
 
 Wählen Sie den Menübefehl *Datei *| *Schließen*.
@@ -141,7 +142,7 @@ Die Datei *log.dat* enthält die Fehlermeldungen.
 Öffnen Sie die Datei *C:\Users\meier\Documents\kursiv.docx* und schreiben Sie dort *schwierig *hinein. 
 
 Geben Sie hier *www.dotnetpro.de* ein. (Url kursiv, weil Bildschirmeingabe).
-~~~~~~
+
 
 ### Hinweise zur Getrennt- und Zusammenschreibung
 
@@ -240,23 +241,23 @@ Der einleitende Satz vor der Aufzählung wird niemals nach der Aufzählung weite
 Verweise auf Listings, Bilder, Tabellen und Kästen werden im Fließtext mit roter Farbe hervorgehoben. Für diese Hinweise gibt es in der Formatvorlage ein vordefiniertes Zeichenformat.
 
  **Beispiel**
-Wie das geht, ist in <rot>Listing 2</rot> zu sehen.
+Wie das geht, ist in *Listing 2* zu sehen.
 
 Die umgebenden Klammern werden ebenfalls rotgefärbt. 
 
  **Beispiel**
-Wie das geht, zeigt die Zeile 23 <span style="color:red">(Listing 2)</span>. 
+Wie das geht, zeigt die Zeile 23 *(Listing 2)*. 
 
 Es sei denn, der Ausdruck in den Klammern ist erweitert: 
 
  **Beispiel**
-Wie das geht, zeigt die Zeile 23 (siehe <span style="color:red">Listing 2</span>). 
+Wie das geht, zeigt die Zeile 23 (siehe *Listing 2*). 
 
  **Beispiel**
-Wie das geht, steht im Kasten <span style="color:red">Worauf es bei der Rotfärbung ankommt</span>, der auch darauf eingeht, wie es ohne rote Farbe ist.  
+Wie das geht, steht im Kasten *Worauf es bei der Rotfärbung ankommt*, der auch darauf eingeht, wie es ohne rote Farbe ist.  
 
  **Beispiel** 
-Wie Sie richtig rotfärben <span style="color:red">(Bild 3)</span>. Sehen Sie hierzu auch <span style="color:red">Bild 4</span>.
+Wie Sie richtig rotfärben *(Bild 3)*. Sehen Sie hierzu auch *Bild 4*.
 
 ### Konventionen
 
