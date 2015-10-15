@@ -131,15 +131,15 @@ Das allermeiste wird nicht kursiv gesetzt.
 
  **Beispiele:**
 
-Sie erhalten ein *DirectoryEntries*-Objekt immer nur über das Attribut *Children *eines *DirectoryEntry*-Objekts.
+Sie erhalten ein *DirectoryEntries*-Objekt immer nur über das Attribut *Children* eines *DirectoryEntry*-Objekts.
 
-Wählen Sie den Menübefehl *Datei *| *Schließen*.
+Wählen Sie den Menübefehl *Datei* | *Schließen*.
 
 Klicken Sie auf *Abbrechen*. 
 
 Die Datei *log.dat* enthält die Fehlermeldungen. 
 
-Öffnen Sie die Datei *C:\Users\meier\Documents\kursiv.docx* und schreiben Sie dort *schwierig *hinein. 
+Öffnen Sie die Datei *C:\Users\meier\Documents\kursiv.docx* und schreiben Sie dort *schwierig* hinein. 
 
 Geben Sie hier *www.dotnetpro.de* ein. (Url kursiv, weil Bildschirmeingabe).
 
@@ -238,26 +238,26 @@ Der einleitende Satz vor der Aufzählung wird niemals nach der Aufzählung weite
 
 ### Rotfärbung
 
-Verweise auf Listings, Bilder, Tabellen und Kästen werden im Fließtext mit roter Farbe hervorgehoben. Für diese Hinweise gibt es in der Formatvorlage ein vordefiniertes Zeichenformat.
+Verweise auf Listings, Bilder, Tabellen und Kästen werden im Fließtext mit roter Farbe hervorgehoben. Für diese Hinweise gibt es in der Formatvorlage ein vordefiniertes Zeichenformat. Die folgenden Beispiele sind gefettet anstatt rot, weil GitHub rot nicht unterstützt.
 
  **Beispiel**
-Wie das geht, ist in *Listing 2* zu sehen.
+Wie das geht, ist in **Listing 2** zu sehen.
 
 Die umgebenden Klammern werden ebenfalls rotgefärbt. 
 
  **Beispiel**
-Wie das geht, zeigt die Zeile 23 *(Listing 2)*. 
+Wie das geht, zeigt die Zeile 23 **(Listing 2)**. 
 
 Es sei denn, der Ausdruck in den Klammern ist erweitert: 
 
  **Beispiel**
-Wie das geht, zeigt die Zeile 23 (siehe *Listing 2*). 
+Wie das geht, zeigt die Zeile 23 (siehe **Listing 2**). 
 
  **Beispiel**
-Wie das geht, steht im Kasten *Worauf es bei der Rotfärbung ankommt*, der auch darauf eingeht, wie es ohne rote Farbe ist.  
+Wie das geht, steht im Kasten **Worauf es bei der Rotfärbung ankommt**, der auch darauf eingeht, wie es ohne rote Farbe ist.  
 
  **Beispiel** 
-Wie Sie richtig rotfärben *(Bild 3)*. Sehen Sie hierzu auch *Bild 4*.
+Wie Sie richtig rotfärben **(Bild 3)**. Sehen Sie hierzu auch **Bild 4**.
 
 ### Konventionen
 
