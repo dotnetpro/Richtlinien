@@ -240,7 +240,7 @@ Der einleitende Satz vor der Aufzählung wird niemals nach der Aufzählung weite
 Verweise auf Listings, Bilder, Tabellen und Kästen werden im Fließtext mit roter Farbe hervorgehoben. Für diese Hinweise gibt es in der Formatvorlage ein vordefiniertes Zeichenformat.
 
  **Beispiel**
-Wie das geht, ist in <span style="color:red">Listing 2</span> zu sehen.
+Wie das geht, ist in <rot>Listing 2</rot> zu sehen.
 
 Die umgebenden Klammern werden ebenfalls rotgefärbt. 
 
